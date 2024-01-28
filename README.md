@@ -1,4 +1,4 @@
-# Classification of hyperspectral remote sensing imagese
+# Classification of hyperspectral remote sensing images
 ###### * Using Python programming language 
 
 ![image](https://github.com/pingzhang1004/CSCI575-ML-SVM-and-KNN/blob/main/ML-SVM-and-KNN.png)
